@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "0": "1",
+    "question": "What is the correct way to start a PHP block of code?",
+    "1": "What is the correct way to start a PHP block of code?",
+    "choice1": "<php>",
+    "2": "<php>",
+    "choice2": "<?php>",
+    "3": "<?php>",
+    "choice3": "<?PHP>",
+    "4": "<?PHP>",
+    "choice4": "<script>",
+    "5": "<script>",
+    "answer": "2",
+    "6": "2"
+  },
+  {
+    "id": "2",
+    "0": "2",
+    "question": "Which of the following is not a correct way to create a variable in PHP?",
+    "1": "Which of the following is not a correct way to create a variable in PHP?",
+    "choice1": "$my_variable = 'hello';",
+    "2": "$my_variable = 'hello';",
+    "choice2": "my_variable = 'hello';",
+    "3": "my_variable = 'hello';",
+    "choice3": "define('my_variable', 'hello');",
+    "4": "define('my_variable', 'hello');",
+    "choice4": "$myVariable = 'hello';",
+    "5": "$myVariable = 'hello';",
+    "answer": "2",
+    "6": "2"
+  },
+  {
+    "id": "5",
+    "0": "5",
+    "question": "Which of the following is not a correct way to access an element of an array in PHP?",
+    "1": "Which of the following is not a correct way to access an element of an array in PHP?",
+    "choice1": "$myArray[0]",
+    "2": "$myArray[0]",
+    "choice2": "$myArray['key']",
+    "3": "$myArray['key']",
+    "choice3": "$myArray.0",
+    "4": "$myArray.0",
+    "choice4": "$myArray.key",
+    "5": "$myArray.key",
+    "answer": "4",
+    "6": "4"
+  }
+]
